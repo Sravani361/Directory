@@ -1,0 +1,71 @@
+[
+    {
+    "id": 1,
+    "name": "Infosys",
+    "location": "Hyderabad",
+    "industry": "Software"
+    },
+    {
+    "id": 2,
+    "name": "Wipro",
+    "location": "Bangalore",
+    "industry": "Software"
+    },
+    {
+    "id": 3,
+    "name": "NxtWave",
+    "location": "Hyderabad",
+    "industry": "Edutech"
+    },
+    {"id": 4,
+    "name": "Front Lines Media",
+    "location": "Hyderabad",
+    "industry": "Edutech"
+    },
+    {"id": 5,
+    "name": "Cognizant",
+    "location": "Pune",
+    "industry": "IT"
+    },
+    {
+    "id": 6,
+    "name": "Apollo",
+    "location": "Hyderabad",
+    "industry": "Pharmacy"
+    },
+    {
+    "id": 7,
+    "name": "Deloitte",
+    "location": "Hyderabad",
+    "industry": "Software"    
+    },
+    {"id": 8,
+    "name": "HDFC Bank",
+    "location": "Pune",
+    "industry": "Banking"
+    },
+    {
+    "id": 9,
+    "name": "Microsoft",
+    "location": "Hyderabad",
+    "industry": "IT"
+    },
+    {
+    "id": 10,
+    "name": "ICICI Bank",
+    "location": "Bangalore",
+    "industry": "Banking"
+    },
+    {
+    "id": 11,
+    "name": "Salesforce",
+    "location": "Hyderabad",
+    "industry": "IT"
+    },
+    {
+    "id": 12,
+    "name": "Paypal",
+    "location": "Hyderabad",
+    "industry": "Finance"
+    }
+]
