@@ -1,0 +1,51 @@
+# 🏢 Companies Directory – React Project
+
+A simple and clean **Companies Directory** built using **React.js** with filtering, searching, and pagination features.  
+This project demonstrates my skills in **frontend development**, **UI building**, **state management**, and **API integration (mock JSON)**.
+
+### ✔ Core Features
+- Display companies in card layout
+- Search by company name
+- Filter by:
+  - Location 
+  - Industry 
+- Pagination (4 per page)
+- Clean & responsive UI
+- Data fetched from **static JSON (mock API)**
+
+### ⭐ Bonus Features Implemented
+- Smooth UI with custom CSS
+- Hover animations
+- Gradient background
+- Mobile responsive design
+
+---
+
+## 🛠️ Tech Stack
+- **React.js**
+- **CSS**
+- **JavaScript (ES6)**
+- **JSON (mock API)**
+- **Vercel for deployment**
+
+---
+
+## 📂 Folder Structure
+/public
+└── companies.json
+/src
+├── App.jsx
+├── index.css
+├── components/
+│ ├── Filters.jsx
+│ └── Company.jsx
+
+## 💡 What I Learned
+- Building UI layouts in React  
+- Using `useState` and `useEffect`  
+- Implementing filters & pagination  
+- Styling attractive UI with CSS  
+- Handling JSON-based mock APIs
+
+## 🌐 Live Demo  
+
